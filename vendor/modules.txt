@@ -129,7 +129,7 @@ gopkg.in/inf.v0
 gopkg.in/tomb.v1
 # gopkg.in/yaml.v2 v2.2.4
 gopkg.in/yaml.v2
-# k8s.io/api v0.0.0-20191204082340-384b28a90b2b
+# k8s.io/api v0.0.0-kubernetes-1.17.0-rc.2 => k8s.io/api v0.0.0-20191204082340-384b28a90b2b
 k8s.io/api/core/v1
 k8s.io/api/authentication/v1
 k8s.io/api/autoscaling/v1
@@ -170,7 +170,7 @@ k8s.io/api/settings/v1alpha1
 k8s.io/api/storage/v1
 k8s.io/api/storage/v1alpha1
 k8s.io/api/storage/v1beta1
-# k8s.io/apiextensions-apiserver v0.0.0-20191204090421-cd61debedab5
+# k8s.io/apiextensions-apiserver v0.0.0-kubernetes-1.17.0-rc.2 => k8s.io/apiextensions-apiserver v0.0.0-20191204090421-cd61debedab5
 k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset
 k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/v1beta1
 k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset/typed/apiextensions/v1beta1
@@ -181,7 +181,7 @@ k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset/fake
 k8s.io/apiextensions-apiserver/pkg/apis/apiextensions/v1
 k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset/typed/apiextensions/v1/fake
 k8s.io/apiextensions-apiserver/pkg/client/clientset/clientset/typed/apiextensions/v1beta1/fake
-# k8s.io/apimachinery v0.0.0-20191203211716-adc6f4cd9e7d
+# k8s.io/apimachinery v0.0.0-kubernetes-1.17.0-rc.2 => k8s.io/apimachinery v0.0.0-20191203211716-adc6f4cd9e7d
 k8s.io/apimachinery/pkg/util/wait
 k8s.io/apimachinery/pkg/apis/meta/v1
 k8s.io/apimachinery/pkg/runtime
@@ -225,7 +225,7 @@ k8s.io/apimachinery/third_party/forked/golang/json
 k8s.io/apimachinery/pkg/apis/meta/internalversion
 k8s.io/apimachinery/pkg/api/equality
 k8s.io/apimachinery/pkg/apis/meta/v1beta1
-# k8s.io/client-go v0.0.0-20191204083517-ea72ff2b5b2f
+# k8s.io/client-go v0.0.0-kubernetes-1.17.0-rc.2 => k8s.io/client-go v0.0.0-20191204083517-ea72ff2b5b2f
 k8s.io/client-go/kubernetes
 k8s.io/client-go/rest
 k8s.io/client-go/dynamic
@@ -340,7 +340,7 @@ k8s.io/client-go/kubernetes/typed/storage/v1alpha1/fake
 k8s.io/client-go/kubernetes/typed/storage/v1beta1/fake
 # k8s.io/klog v1.0.0
 k8s.io/klog
-# k8s.io/kube-aggregator v0.0.0-20191204085536-307dc9fddc57
+# k8s.io/kube-aggregator v0.0.0-kubernetes-1.17.0-rc.2 => k8s.io/kube-aggregator v0.0.0-20191204085536-307dc9fddc57
 k8s.io/kube-aggregator/pkg/client/clientset_generated/clientset
 k8s.io/kube-aggregator/pkg/client/clientset_generated/clientset/typed/apiregistration/v1
 k8s.io/kube-aggregator/pkg/client/clientset_generated/clientset/typed/apiregistration/v1beta1
